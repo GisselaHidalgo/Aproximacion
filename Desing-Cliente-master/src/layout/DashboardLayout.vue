@@ -13,7 +13,7 @@
         <p>Menu</p>
       </sidebar-link>
       <sidebar-link to="/cliente/addmenu">
-        <i class="nc-icon nc-badge"></i>
+        <i class="nc-icon nc-cart-simple"></i>
         <p>Solicitar Pedido</p>
       </sidebar-link>          
       <sidebar-link to="/cliente/notifications">

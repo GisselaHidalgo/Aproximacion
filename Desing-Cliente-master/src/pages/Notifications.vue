@@ -18,7 +18,7 @@
               </button>
               <span><b> Exitoso: </b> Su pedido fue recibido por parte de "Le Marlita"</span>
             </div>
-            <div class="alert alert-success">
+            <div class="alert alert-info">
               <button type="button" aria-hidden="true" class="close" data-dismiss="alert">
                 <i class="nc-icon nc-simple-remove"></i>
               </button>
@@ -37,12 +37,7 @@
               </h5>
             </div>
           </div>
-          <div class="row justify-content-center">
-            
-            <div class="col-md-3">
-              <button class="btn btn-default btn-block" @click="notifyVue('top', 'center')">Notificaciones</button>
-            </div>
-          </div>
+         
          
           
         </div>
